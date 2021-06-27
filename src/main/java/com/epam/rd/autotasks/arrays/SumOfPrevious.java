@@ -12,6 +12,8 @@ public class SumOfPrevious {
 
     public static boolean[] getSumCheckArray(int[] array){
 
+        //put your code here
+
         throw new UnsupportedOperationException();
     }
 }
