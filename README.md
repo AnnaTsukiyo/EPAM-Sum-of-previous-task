@@ -10,5 +10,10 @@ Implement [com.epam.rd.autotasks.arrays.SumOfPrevious](src/main/java/com/epam/rd
 
 Class [com.epam.rd.autotasks.arrays.SumOfPrevious](src/main/java/com/epam/rd/autotasks/arrays/SumOfPrevious.java)
  contains <b>public static void main(String[] args)</b>. 
- <br>An array is created there, and a result of the getSumCheckArray method called for it is printed in the console.
- <br>Size and values of the array can be changed for testing of the solution.
+ <br>You may use it to check your solution.
+ 
+ Example:
+ <br><i>Input array</i>:
+ <br>`[1, -1, 0, 4, 6, 10, 15, 25]`
+ <br><i>Output array</i>:
+ <br>`[false, false, true, false, false, true, false, true]`
